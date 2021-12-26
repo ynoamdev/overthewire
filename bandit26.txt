@@ -1,5 +1,3 @@
-
-solution:
-	cat redme
 key:
-	boJ9jbbUNNfktd78OOpsqOltutMc3MY1	
+	login to bandit25 and execute this:
+	 ssh -i ~/bandit26.sshkey  bandit26@localhost

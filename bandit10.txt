@@ -1,5 +1,2 @@
-
-solution:
-	cat redme
 key:
-	boJ9jbbUNNfktd78OOpsqOltutMc3MY1	
+	truKLdjsbJ5g7yyJ2X2R0o3a5HQJFuLk
